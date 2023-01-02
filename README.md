@@ -15,4 +15,6 @@ git commit ctrl+enter
 
 push versionar alteração ex. readme.md do vs code para github (remoto) via git
 
+push no git -> ctrl + p 
+
 pull versionar alteração ex. readme.md do github para o vs , via git

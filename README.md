@@ -36,3 +36,6 @@ versionamento de projetos antigos
 Issues
 assinatura padrão - settings - saved reply (contedos salvos)
 add link - ex. assinatura padrão
+
+guia linguagem Markdown (marcação)
+

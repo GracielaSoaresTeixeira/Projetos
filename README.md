@@ -13,8 +13,10 @@ vs code - commit -> autosave, já configurado
 
 git commit ctrl+enter
 
-push versionar alteração ex. readme.md do vs code para github (remoto) via git
+push versionar alteração ex. readme.md do vs code/local para github (remoto) via git
 
 push no git -> ctrl + p 
 
 pull versionar alteração ex. readme.md do github para o vs , via git
+
+pull  no git ->  remoto para local -> github para local/vs cod - > ctrl shift p

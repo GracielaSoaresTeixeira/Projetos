@@ -29,6 +29,7 @@ pasta ou zip (compactado)
 
 C:\BlueAcademy\Git\html-css
 
-github como rede social -> Issues
+github com caracteristicas de rede social -> Issues
+
 versionamento de projetos antigos
 

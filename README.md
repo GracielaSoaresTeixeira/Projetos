@@ -11,6 +11,8 @@ commit / push / pull / fetch
 
 vs code - commit -> autosave, já configurado
 
+git commit <ctrl>+<enter>
+
 push versionar alteração ex. readme.md do vs code para github (remoto) via git
 
 pull versionar alteração ex. readme.md do github para o vs , via git

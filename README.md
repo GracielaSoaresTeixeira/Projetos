@@ -21,5 +21,7 @@ pull versionar alteração ex. readme.md do github para o vs , via git
 
 pull  no git ->  remoto para local -> github para local/vs cod - > ctrl shift p
 
-clonagem de repositório
+clonagem de repositório -> CODE -> download e clone
+github como rede social -> Issues
+versionamento de projetos antigos
 

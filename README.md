@@ -33,3 +33,5 @@ github com caracteristicas de rede social -> Issues
 
 versionamento de projetos antigos
 
+Issues
+assinatura padrão - settings - saved reply

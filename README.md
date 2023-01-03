@@ -41,5 +41,8 @@ guia linguagem Markdown (marcação)
 
 segurança - senhas - acess - password e authenticator - 2 fatores - google authenticator
 
-Branches
+Branches - Ramo - Branch Master - ramo principal
+merge
+
+
 

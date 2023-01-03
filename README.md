@@ -39,3 +39,7 @@ add link - ex. assinatura padrão
 
 guia linguagem Markdown (marcação)
 
+segurança - senhas - acess - password e authenticator - 2 fatores - google authenticator
+
+Branches
+
